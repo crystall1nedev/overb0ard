@@ -4,7 +4,7 @@
 
 ### Installation
 
-The latest Debian package can be downloaded from my [Cydia Repository](https://doregon.github.io/cydia) in the System section.
+The latest Debian package can be downloaded from my [Cydia Repository](https://repository.crystall1ne.software) in the System section.
 
 ### Usage
 
